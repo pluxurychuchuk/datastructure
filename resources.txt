@@ -1,0 +1,6 @@
+# ID,Name   (C## = collection counter, D## = delivery personnel)
+C01,Counter A - Block B
+C02,Counter B - Block B
+C03,Counter C - Library
+D01,Ahmad (Motorbike)
+D02,Siti (Van)
